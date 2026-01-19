@@ -36,6 +36,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-01-19] [[해외주식 절세] 사랑하는 배우자에게 주식을 선물할 때, 꼭 챙겨야 할 3가지](blog/2026-01-19-해외주식-배우자-증여-절세-꿀팁-2.md)
 - [2026-01-19] [[해외주식 절세 꿀팁] 배우자 증여 전 꼭 확인해야 할 3가지](blog/2026-01-19-해외주식-배우자-증여-절세-꿀팁.md)
 
 ## Stats
