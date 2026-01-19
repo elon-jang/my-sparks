@@ -5,10 +5,10 @@ category: "til"
 tags: ["claude-code", "plugin", "troubleshooting", "cache"]
 created: "2026-01-19T00:00:00+09:00"
 source: "/Users/elon/elon/ai/PLUGIN_TROUBLESHOOTING.md"
-confidence: 3
-connections: []
-review_count: 0
-last_reviewed: null
+confidence: 4
+connections: ["docker-cache-management"]
+review_count: 1
+last_reviewed: "2026-01-19T00:00:00+09:00"
 ---
 
 # Claude Code 플러그인 캐시 삭제로 완전 제거하기
