@@ -7,8 +7,8 @@ created: "2026-01-19T00:00:00+09:00"
 source: "삼성증권 상담"
 confidence: 3
 connections: []
-review_count: 0
-last_reviewed: null
+review_count: 1
+last_reviewed: "2026-01-19T00:00:00+09:00"
 ---
 
 # 해외주식 배우자 증여 절세 전략 (2025년 개정 포함)
