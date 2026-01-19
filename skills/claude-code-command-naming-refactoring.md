@@ -14,6 +14,8 @@ last_reviewed: null
 
 # Claude Code 명령어 네이밍 리팩토링 - 96개 명령어 정리법
 
+> **Blog**: [Claude Code 명령어 대청소! 96개 명령어를 '뇌 빼고' 쓰는 비결](../blog/2026-01-19-claude-code-명령어-네이밍-리팩토링.md)
+
 ## Summary
 
 Claude Code에 96개 이상의 명령어가 있을 때, 제각각인 네이밍 스타일(케밥, 네임스페이스, 심플, 중복) 때문에 매번 help를 쳐야 하는 문제를 `[Category]:[Verb]` 공식으로 해결합니다. IDE 자동완성과 궁합이 좋고, 예측 가능하며, 타이핑이 줄어듭니다.
