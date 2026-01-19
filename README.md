@@ -16,7 +16,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:insights -->
 
-- `insights/overseas-stock-spouse-gift-tax-strategy.md` - 해외주식 배우자 증여 절세 전략 (2025년 개정 포함)
+- [해외주식 배우자 증여 절세 전략 (2025년 개정 포함)](insights/overseas-stock-spouse-gift-tax-strategy.md)
 
 ### Skills
 
@@ -30,7 +30,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:til -->
 
-- `til/claude-code-plugin-cache-cleanup.md` - Claude Code 플러그인 캐시 삭제로 완전 제거하기
+- [Claude Code 플러그인 캐시 삭제로 완전 제거하기](til/claude-code-plugin-cache-cleanup.md)
 
 ## Stats
 
