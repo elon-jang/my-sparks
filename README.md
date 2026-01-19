@@ -16,6 +16,8 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:insights -->
 
+- `insights/overseas-stock-spouse-gift-tax-strategy.md` - 해외주식 배우자 증여 절세 전략 (2025년 개정 포함)
+
 ### Skills
 
 실용 기술, How-to
@@ -32,7 +34,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 ## Stats
 
-- Total items: 1
+- Total items: 2
 - Last updated: 2026-01-19
 
 ---
