@@ -24,7 +24,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:skills -->
 
-- [CLI 명령어 네이밍 컨벤션 - Scope:Action 구조](skills/cli-command-naming-convention.md)
+- [Claude Code 명령어 네이밍 리팩토링 - 96개 명령어 정리법](skills/claude-code-command-naming-refactoring.md)
 
 ### TIL (Today I Learned)
 
