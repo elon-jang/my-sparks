@@ -5,6 +5,7 @@ category: "skills"
 tags: ["claude-code", "command", "naming"]
 created: "2026-01-19T00:00:00+09:00"
 source: "경험 분석"
+blog_link: "blog/2026-01-19-claude-code-명령어-네이밍-리팩토링.md"
 confidence: 3
 connections: []
 review_count: 0
