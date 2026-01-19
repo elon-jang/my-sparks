@@ -28,9 +28,11 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:til -->
 
+- `til/claude-code-plugin-cache-cleanup.md` - Claude Code 플러그인 캐시 삭제로 완전 제거하기
+
 ## Stats
 
-- Total items: 0
+- Total items: 1
 - Last updated: 2026-01-19
 
 ---
