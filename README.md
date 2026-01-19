@@ -32,6 +32,12 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 - [Claude Code 플러그인 캐시 삭제로 완전 제거하기](til/claude-code-plugin-cache-cleanup.md)
 
+## Blog
+
+<!-- spark-index:blog -->
+
+- [2026-01-19] [[해외주식 절세 꿀팁] 배우자 증여 전 꼭 확인해야 할 3가지](blog/2026-01-19-해외주식-배우자-증여-절세-꿀팁.md)
+
 ## Stats
 
 - Total items: 2
