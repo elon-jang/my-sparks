@@ -24,6 +24,8 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:skills -->
 
+- [CLI 명령어 네이밍 컨벤션 - Scope:Action 구조](skills/cli-command-naming-convention.md)
+
 ### TIL (Today I Learned)
 
 일일 학습 기록
@@ -43,7 +45,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 ## Stats
 
-- Total items: 3
+- Total items: 4
 - Last updated: 2026-01-19
 
 ---
