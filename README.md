@@ -39,6 +39,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-01-21] [Claude Desktop MCP 서버 연동 삽질기 - 6시간의 대장정](blog/2026-01-21-claude-desktop-mcp-서버-연동-삽질기.md)
 - [2026-01-21] [Claude Desktop이 갑자기 먹통이 됐을 때 - 삽질 3시간의 기록](blog/2026-01-21-claude-desktop-먹통-해결-삽질-기록.md)
 - [2026-01-19] [Claude Code 명령어 대청소! 96개 명령어를 '뇌 빼고' 쓰는 비결](blog/2026-01-19-claude-code-명령어-네이밍-리팩토링.md)
 - [2026-01-19] [카드 영수증 분실해도 OK! 앱으로 승인번호 확인하고 재결제하는 법](blog/2026-01-19-카드-영수증-분실-승인번호-재결제.md)
