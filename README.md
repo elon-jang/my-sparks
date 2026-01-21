@@ -32,6 +32,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:til -->
 
+- [Claude Desktop MCP 서버 연동 트러블슈팅](til/claude-desktop-mcp-server-troubleshooting.md)
 - [카드 영수증 분실 시 앱으로 승인번호 확인하여 재결제하기](til/card-receipt-approval-number-recharge.md)
 - [Claude Code 플러그인 캐시 삭제로 완전 제거하기](til/claude-code-plugin-cache-cleanup.md)
 
@@ -48,7 +49,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 ## Stats
 
-- Total items: 4
+- Total items: 5
 - Last updated: 2026-01-21
 
 ---
