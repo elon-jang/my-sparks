@@ -41,7 +41,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
-- [2026-01-21] [삭제 버튼을 52번 누르기 싫어서 벌어진 일](blog/2026-01-21-삭제-버튼을-52번-누르기-싫어서-벌어진-일.md)
+- [2026-01-21] [[Playwright] 삭제 버튼 52번 누르기 싫어서 만든 자동화 스크립트](blog/2026-01-21-삭제-버튼을-52번-누르기-싫어서-벌어진-일.md)
 - [2026-01-21] [Claude Desktop MCP 서버 연동 삽질기 - 6시간의 대장정](blog/2026-01-21-claude-desktop-mcp-서버-연동-삽질기.md)
 - [2026-01-21] [Claude Desktop이 갑자기 먹통이 됐을 때 - 삽질 3시간의 기록](blog/2026-01-21-claude-desktop-먹통-해결-삽질-기록.md)
 - [2026-01-19] [Claude Code 명령어 대청소! 96개 명령어를 '뇌 빼고' 쓰는 비결](blog/2026-01-19-claude-code-명령어-네이밍-리팩토링.md)
