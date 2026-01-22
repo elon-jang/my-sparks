@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-01-22] [맥북의 키보드에는 왜 '꽃'과 '철로'가 있을까?](blog/2026-01-22-맥북-키보드-꽃과-철로.md)
 - [2026-01-21] [[Playwright] 삭제 버튼 52번 누르기 싫어서 만든 자동화 스크립트 (Tech Blog Ver.)](blog/2026-01-21-playwright-auto-delete-oauth.md)
 - [2026-01-21] [[Playwright] 삭제 버튼 52번 누르기 싫어서 만든 자동화 스크립트](blog/2026-01-21-삭제-버튼을-52번-누르기-싫어서-벌어진-일.md)
 - [2026-01-21] [Claude Desktop MCP 서버 연동 삽질기 - 6시간의 대장정](blog/2026-01-21-claude-desktop-mcp-서버-연동-삽질기.md)
