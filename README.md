@@ -32,6 +32,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:til -->
 
+- [Mac 키보드 심볼(⇧⌃⌥⌘)의 유래와 의미](til/mac-keyboard-symbol-origins.md)
 - [Claude Desktop 세션 데이터 손상 시 완전 초기화로 해결하기](til/claude-desktop-session-data-corruption-fix.md)
 - [Claude Desktop MCP 서버 연동 트러블슈팅](til/claude-desktop-mcp-server-troubleshooting.md)
 - [카드 영수증 분실 시 앱으로 승인번호 확인하여 재결제하기](til/card-receipt-approval-number-recharge.md)
@@ -52,8 +53,8 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 ## Stats
 
-- Total items: 6
-- Last updated: 2026-01-21
+- Total items: 7
+- Last updated: 2026-01-22
 
 ---
 
