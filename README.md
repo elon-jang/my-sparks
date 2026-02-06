@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-06] [매일 아침 7개 탭 여는 당신을 위한 솔루션: Contents Hub](blog/2026-02-06-매일-아침-7개-탭-여는-당신을-위한-솔루션-contents-hub.md)
 - [2026-01-28] [2026년 테슬라 모델 Y 구매 완벽 가이드](blog/2026-01-28-테슬라-모델y-구매-완벽-가이드.md)
 - [2026-01-25] [손끝에서 생각이 멈추지 않으려면](blog/2026-01-25-손끝에서-생각이-멈추지-않으려면.md)
 - [2026-01-23] [Warp Terminal: The Keyboard-First Master Guide (v2026)](blog/2026-01-23-warp-terminal-마스터-가이드.md)
