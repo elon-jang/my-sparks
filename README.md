@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-08] [조용한 실패와의 전쟁: 일주일간의 디버깅 여정](blog/2026-02-08-조용한-실패와의-전쟁-일주일간의-디버깅-여정.md)
 - [2026-02-08] [이번 주 개발하면서 배운 것들](blog/2026-02-08-이번-주-개발하면서-배운-것들.md)
 - [2026-02-07] [이번 주 LinkedIn에서 무슨 일이? AI 전쟁의 서막이 열렸다](blog/2026-02-07-이번-주-linkedin에서-무슨-일이-ai-전쟁의-서막이-열렸다.md)
 - [2026-02-06] [매일 아침 7개 탭 여는 당신을 위한 솔루션: Contents Hub](blog/2026-02-06-매일-아침-7개-탭-여는-당신을-위한-솔루션-contents-hub.md)
