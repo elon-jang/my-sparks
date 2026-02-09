@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-09] [Slack Incoming Webhook 설정 및 사용법 총정리](blog/2026-02-09-slack-incoming-webhook-설정-및-사용법-총정리.md)
 - [2026-02-09] [일요일 아침, 이메일이 늦었다: 삽질 4시간의 기록](blog/2026-02-09-일요일-아침-이메일이-늦었다-삽질-4시간의-기록.md)
 - [2026-02-08] [오늘의 개발 인사이트: AI가 교회 헌금을 처리하게 된 사연](blog/2026-02-08-ai-church-offering-automation-insights.md)
 - [2026-02-08] [구슬샘 영어 웹앱 출시! 총정리 영상으로 영어 표현 마스터하기](blog/2026-02-08-guseul-english-webapp-release.md)
