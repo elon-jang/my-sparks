@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-11] [탄소 관리 플랫폼 개발기: 삽질에서 인사이트까지](blog/2026-02-11-탄소-관리-플랫폼-개발기.md)
 - [2026-02-09] [AI 협업의 새로운 지평: Claude Code '에이전트 팀(Agent Teams)' 완벽 가이드](blog/2026-02-09-claude-code-agent-teams-완벽-가이드.md)
 - [2026-02-09] [Slack Incoming Webhook 설정 및 사용법 총정리](blog/2026-02-09-slack-incoming-webhook-설정-및-사용법-총정리.md)
 - [2026-02-09] [일요일 아침, 이메일이 늦었다: 삽질 4시간의 기록](blog/2026-02-09-일요일-아침-이메일이-늦었다-삽질-4시간의-기록.md)
@@ -66,8 +67,8 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 ## Stats
 
-- Total items: 7
-- Last updated: 2026-01-22
+- Total items: 8
+- Last updated: 2026-02-11
 
 ---
 
