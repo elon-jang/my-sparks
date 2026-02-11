@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-11] [Docker + GHCR로 배포 자동화하기](blog/2026-02-11-docker-ghcr-deployment-automation.md)
 - [2026-02-11] [Health Check는 서비스 가용성을 확인해야 한다](blog/2026-02-11-health-check는-서비스-가용성을-확인해야-한다.md)
 - [2026-02-11] [탄소 관리 플랫폼 개발기: 삽질에서 인사이트까지](blog/2026-02-11-탄소-관리-플랫폼-개발기.md)
 - [2026-02-09] [AI 협업의 새로운 지평: Claude Code '에이전트 팀(Agent Teams)' 완벽 가이드](blog/2026-02-09-claude-code-agent-teams-완벽-가이드.md)
