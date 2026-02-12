@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-12] [코드 읽다가 일본어 배운 개발자의 고백](blog/2026-02-12-코드-읽다가-일본어-배운-개발자의-고백.md)
 - [2026-02-12] [탄소 배출 관리 도메인 완전정복: 개발자가 알아야 할 탄소의 세계](blog/2026-02-12-탄소-배출-관리-도메인-완전정복-개발자가-알아야-할-탄소의-세계.md)
 - [2026-02-12] [Claude Code 플러그인 만들기: /secrets 커맨드로 시크릿 관리 자동화](blog/2026-02-12-claude-code-플러그인-만들기-secrets-커맨드로-시크릿-관리-자동화.md)
 - [2026-02-12] [Claude Code Plugin 구조 설계](blog/2026-02-12-claude-code-plugin-구조-설계.md)
