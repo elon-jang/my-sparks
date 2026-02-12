@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-12] [Claude Code Plugin 구조 설계](blog/2026-02-12-claude-code-plugin-구조-설계.md)
 - [2026-02-11] [Mac에서 Linux 서버용 Docker 이미지 빌드하기: buildx가 필요한 경우와 아닌 경우](blog/2026-02-11-mac에서-linux-서버용-docker-이미지-빌드하기-buildx가-필요한-경우와-아닌-경우.md)
 - [2026-02-11] [운영 배포 삽질기: 500 에러 3연타를 뚫고 살아남기](blog/2026-02-11-운영-배포-삽질기-500에러-3연타.md)
 - [2026-02-11] [Docker + GHCR로 배포 자동화하기](blog/2026-02-11-docker-ghcr-deployment-automation.md)
