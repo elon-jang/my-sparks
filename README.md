@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-13] [AI 네이티브 시대, 개발자에게 진짜 필요한 것](blog/2026-02-13-ai-네이티브-시대-개발자에게-진짜-필요한-것.md)
 - [2026-02-13] ["65줄이면 AI가 똑똑해진다고요?" — CLAUDE.md 열풍, 냉정하게 뜯어보기](blog/2026-02-13-65줄이면-ai가-똑똑해진다고요-claudemd-열풍-냉정하게-뜯어보기.md)
 - [2026-02-13] [롱블랙 크롤러 구축기: 유료 콘텐츠 자동 수집부터 시맨틱 검색까지](blog/2026-02-13-롱블랙-크롤러-구축기-유료-콘텐츠-자동-수집부터-시맨틱-검색까지.md)
 - [2026-02-13] [운영 장애에서 배운 것들 — Anthropic→Gemini 전환기](blog/2026-02-13-운영-장애에서-배운-것들-anthropic-gemini-전환기.md)
