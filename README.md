@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-14] [AI 에이전트가 자기 집을 리모델링한 날 — Snapkin v3 개발기](blog/2026-02-14-ai-에이전트가-자기-집을-리모델링한-날.md)
 - [2026-02-14] [로컬에서 다 잡고 배포하자 — 1인 개발자의 dev/prod 환경 정비 기록](blog/2026-02-14-로컬에서-다-잡고-배포하자-1인-개발자의-dev-prod-환경-정비-기록.md)
 - [2026-02-14] [플러그인 커맨드 작성 원칙](blog/2026-02-14-plugin-command-writing-principles.md)
 - [2026-02-13] [AI 네이티브 시대, 개발자에게 진짜 필요한 것](blog/2026-02-13-ai-네이티브-시대-개발자에게-진짜-필요한-것.md)
