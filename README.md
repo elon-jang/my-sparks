@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-14] [Claude Code 컨텍스트 윈도우 최적화 가이드](blog/2026-02-14-claude-code-context-window-optimization.md)
 - [2026-02-14] [AI 에이전트가 자기 집을 리모델링한 날 — Snapkin v3 개발기](blog/2026-02-14-ai-에이전트가-자기-집을-리모델링한-날.md)
 - [2026-02-14] [로컬에서 다 잡고 배포하자 — 1인 개발자의 dev/prod 환경 정비 기록](blog/2026-02-14-로컬에서-다-잡고-배포하자-1인-개발자의-dev-prod-환경-정비-기록.md)
 - [2026-02-14] [플러그인 커맨드 작성 원칙](blog/2026-02-14-plugin-command-writing-principles.md)
