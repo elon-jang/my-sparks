@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-15] [AI와의 대화도 효율이 필요해](blog/2026-02-15-AI와의-대화도-효율이-필요해.md)
 - [2026-02-15] [API 날짜 필드의 함정과 해결법](blog/2026-02-15-API-날짜-필드의-함정과-해결법.md)
 - [2026-02-15] [AI 에이전트 다이어트 작전: 90k→10k로 줄이기](blog/2026-02-15-AI-에이전트-다이어트-작전-90k10k로-줄이기.md)
 - [2026-02-14] [Claude Code 컨텍스트 윈도우 최적화 가이드](blog/2026-02-14-claude-code-context-window-optimization.md)
