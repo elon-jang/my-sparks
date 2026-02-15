@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-16] [지출 일괄 입력 자동화](blog/2026-02-16-지출-일괄-입력-자동화.md)
 - [2026-02-16] [Daily Log](blog/2026-02-16-daily-log.md)
 - [2026-02-15] [자동화가 자동화를 낳는다: 5단계 진화 이야기](blog/2026-02-15-자동화가-자동화를-낳는다-5단계-진화-이야기.md)
 - [2026-02-15] [Daily Log](blog/2026-02-15-daily-log.md)
