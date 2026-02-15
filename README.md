@@ -42,6 +42,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-16] [Contents Hub 운영 안정화 작업기](blog/2026-02-16-Contents-Hub-운영-안정화-작업기.md)
 - [2026-02-16] [시크릿 백업 파이프라인: gpg + rclone으로 Google Drive에 암호화 백업하기](blog/2026-02-16-시크릿-백업-파이프라인-gpg-rclone으로-Google-Drive에-암호화-백업하기.md)
 - [2026-02-16] [지출 일괄 입력 자동화](blog/2026-02-16-지출-일괄-입력-자동화.md)
 - [2026-02-16] [Daily Log](blog/2026-02-16-daily-log.md)
