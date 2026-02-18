@@ -16,6 +16,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:insights -->
 
+- [다계층 시스템 디버깅: 증상 범위로 원인 계층 좁히기](insights/다계층-시스템-디버깅-증상-범위로-원인-계층-좁히기.md)
 - [해외주식 배우자 증여 절세 전략 (2025년 개정 포함)](insights/overseas-stock-spouse-gift-tax-strategy.md)
 
 ### Skills
