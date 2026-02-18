@@ -33,6 +33,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:til -->
 
+- [SPA + API 공존 시 catch-all fallback 함정](til/SPA-+-API-공존-시-catch-all-fallback-함정.md)
 - [Mac 키보드 심볼(⇧⌃⌥⌘)의 유래와 의미](til/mac-keyboard-symbol-origins.md)
 - [Claude Desktop 세션 데이터 손상 시 완전 초기화로 해결하기](til/claude-desktop-session-data-corruption-fix.md)
 - [Claude Desktop MCP 서버 연동 트러블슈팅](til/claude-desktop-mcp-server-troubleshooting.md)
