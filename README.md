@@ -44,6 +44,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-19] [운영 DB 배포, 실수를 잡는 방법](blog/2026-02-19-운영-DB-배포-실수를-잡는-방법.md)
 - [2026-02-19] [SPA fallback이 API를 삼킨다](blog/2026-02-19-SPA-fallback이-API를-삼킨다.md)
 - [2026-02-18] [Plugin 중복 에러, settings.json이 범인이었다](blog/2026-02-18-Plugin-중복-에러-settings-json이-범인이었다.md)
 - [2026-02-16] [Contents Hub 운영 안정화 작업기](blog/2026-02-16-Contents-Hub-운영-안정화-작업기.md)
