@@ -44,6 +44,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-19] [22개 보안 구멍을 하루만에 막은 이야기](blog/2026-02-19-22개-보안-구멍을-하루만에-막은-이야기.md)
 - [2026-02-19] [비밀번호 초기화 기능의 설계 진화](blog/2026-02-19-비밀번호-초기화-기능의-설계-진화.md)
 - [2026-02-19] [운영 DB 배포, 실수를 잡는 방법](blog/2026-02-19-운영-DB-배포-실수를-잡는-방법.md)
 - [2026-02-19] [SPA fallback이 API를 삼킨다](blog/2026-02-19-SPA-fallback이-API를-삼킨다.md)
