@@ -45,6 +45,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 <!-- spark-index:blog -->
 
+- [2026-02-20] [백엔드 없이 실시간 동기화 만들기 — Cloudflare Workers + KV로 PWA 멀티디바이스 sync 구현](blog/2026-02-20-백엔드-없이-실시간-동기화-만들기-Cloudflare-Workers-KV로-PWA-멀티디바이스-sync-구현.md)
 - [2026-02-19] [다이제스트 프롬프트 개선기](blog/2026-02-19-다이제스트-프롬프트-개선기.md)
 - [2026-02-19] [22개 보안 구멍을 하루만에 막은 이야기](blog/2026-02-19-22개-보안-구멍을-하루만에-막은-이야기.md)
 - [2026-02-19] [비밀번호 초기화 기능의 설계 진화](blog/2026-02-19-비밀번호-초기화-기능의-설계-진화.md)
