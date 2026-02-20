@@ -18,6 +18,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 - [대시보드 경고는 노이즈가 되면 제거하라](insights/대시보드-경고는-노이즈가-되면-제거하라.md)
 - [다계층 시스템 디버깅: 증상 범위로 원인 계층 좁히기](insights/다계층-시스템-디버깅-증상-범위로-원인-계층-좁히기.md)
+- [한 교회의 시스템이 모든 교회의 시스템이 되기까지](insights/한-교회의-시스템이-모든-교회의-시스템이-되기까지.md)
 - [해외주식 배우자 증여 절세 전략 (2025년 개정 포함)](insights/overseas-stock-spouse-gift-tax-strategy.md)
 
 ### Skills
@@ -105,7 +106,7 @@ Personal knowledge repository managed with [Sparks](https://github.com/elon-jang
 
 ## Stats
 
-- Total items: 10
+- Total items: 11
 - Last updated: 2026-02-20
 
 ---
